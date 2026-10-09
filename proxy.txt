@@ -56,3 +56,4 @@ https://raw.githubusercontent.com/TuanMinPay/live-proxy/refs/heads/master/all.tx
 https://raw.githubusercontent.com/TuanMinPay/live-proxy/refs/heads/master/http.txt
 https://raw.githubusercontent.com/TuanMinPay/live-proxy/refs/heads/master/socks4.txt
 https://raw.githubusercontent.com/TuanMinPay/live-proxy/refs/heads/master/socks5.txt
+https://rcloak.com/api/proxies/raw?protocol=http
